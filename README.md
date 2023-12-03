@@ -20,7 +20,7 @@ Clone Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/two-good-ui-clone.git
+git clone https://github.com/Jassiesingh/two-good-ui-clone.git
 Open in Browser:
 
 Navigate to the cloned directory.
